@@ -4,11 +4,7 @@ This repository contains a series of Jupyter notebooks designed to help people f
 
 ## Project Overview
 
-The current notebook covers:
-
-- **Factorial calculations** using Python, including exact methods and Stirling's approximation for large numbers.
-- **Efficient computation of binomial coefficients** and the binomial probability mass function (PMF).
-- **Logarithmic techniques** to avoid overflow issues in large computations.
+(TBD)
   
 Each example is explained in a step-by-step manner, with detailed comments to make the code more accessible to Python beginners.
 
