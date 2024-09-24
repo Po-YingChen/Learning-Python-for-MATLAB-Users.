@@ -1,6 +1,6 @@
 # Learning Python for MATLAB and R Users
 
-This repository contains a series of Jupyter notebooks designed to help people familiar with other programming languages, such as MATLAB or R, learn Python. The examples and explanations focus on making Python accessible for learners by drawing comparisons with concepts they might already know from these languages.
+This repository contains a series of Jupyter notebooks designed to help people (including me) familiar with other programming languages, such as MATLAB or R, learn Python. The examples and explanations focus on making Python accessible for learners by drawing comparisons with concepts they might already know from these languages.
 
 ## Project Overview
 
