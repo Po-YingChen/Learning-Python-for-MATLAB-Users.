@@ -24,9 +24,12 @@ Each example is explained in a step-by-step manner, with detailed comments to ma
 
 This project is aimed at learners who are new to Python but already have experience with MATLAB or R. It provides practical coding examples while pointing out similarities and differences between these languages and Python.
 
-## Topics Covered (TBD)
-
+## Topics Covered 
+- *September 24
 - Factorials (exact and approximate calculations)
 - Binomial coefficients
 - Probability mass functions (PMF)
 - Using logarithmic functions for handling large values
+
+- - *September 25
+- NumPy introduction
