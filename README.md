@@ -1,6 +1,6 @@
-# Learning Python for MATLAB and R Users
+# Learning Python for MATLAB Users
 
-This repository contains a series of Jupyter notebooks designed to help people (including me) familiar with other programming languages, such as MATLAB or R, learn Python. The examples and explanations focus on making Python accessible for learners by drawing comparisons with concepts they might already know from these languages.
+This repository contains a series of Jupyter notebooks designed to help people (including me) familiar with other programming languages, such as MATLAB, learn Python. The examples and explanations focus on making Python accessible for learners by drawing comparisons with concepts they might already know from these languages.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Each example is explained in a step-by-step manner, with detailed comments to ma
 
 ## Features
 
-- **Comparisons to MATLAB and R**: The notebooks provide explanations of how Python's syntax and functions differ from those in MATLAB and R, making it easier for learners to relate.
+- **Comparisons to MATLAB**: The notebooks provide explanations of how Python's syntax and functions differ from those in MATLAB, making it easier for learners to relate.
 - **Hands-on practice**: Users can modify and run the provided code in a Jupyter Notebook environment, gaining experience with Python by exploring practical examples.
 - **Accessible explanations**: Focuses on making Python’s concepts approachable for those coming from other programming backgrounds.
 
@@ -22,14 +22,14 @@ Each example is explained in a step-by-step manner, with detailed comments to ma
 
 ## Target Audience
 
-This project is aimed at learners who are new to Python but already have experience with MATLAB or R. It provides practical coding examples while pointing out similarities and differences between these languages and Python.
+This project is aimed at learners who are new to Python but already have experience with MATLAB. It provides practical coding examples while pointing out similarities and differences between these languages and Python.
 
 ## Topics Covered 
-- *September 24
+- **September 24
 - Factorials (exact and approximate calculations)
 - Binomial coefficients
 - Probability mass functions (PMF)
 - Using logarithmic functions for handling large values
 
-- - *September 25
+- **September 25
 - NumPy introduction
